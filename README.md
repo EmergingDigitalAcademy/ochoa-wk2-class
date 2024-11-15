@@ -11,7 +11,7 @@
 Weeks 3 and 4, we will be holding one one ones with all students.
 These are mandatory, it's a chance to check in with each of you. We will talk about how things are going and if you need anything. There is nothing you need to do in advance to prepare, just come ready to talk about how things are going so far and if you have any concerns.
 You will sign up for a 30-min slot (the link to sign up will be in Slack Friday). The one on one doesn't need to take 30 minutes. They sometimes take as little as 10 minutes, depending on how the conversation goes.
-- One on One will be done on video call (Google Meet Class Link).
+- One on One will be done on video call.
 - Reach out on Slack if you have any questions.
 
 ### Encourage people to work together
