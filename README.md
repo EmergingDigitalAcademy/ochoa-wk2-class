@@ -1,4 +1,4 @@
-# Tier 1 Week 2 
+# Tier 1 Week 2 | [Video](https://vimeo.com/manage/videos/1030114879/ec8a63ce53)
 ### Class Etiquette
 
 - Show your faces (not required, but helps us put names and faces together)
